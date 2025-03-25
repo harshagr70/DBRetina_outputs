@@ -1,0 +1,6 @@
+#nodes:3
+#command: DBRetina index -a /home/rahul/dbretina/associations.tsv -o /home/rahul/dbretina/index_output_files/index_output
+#command: DBRetina pairwise --index-prefix index_output_files/index_output --threads 4 --metric jaccard --cutoff 0.1
+#command: DBRetina cluster -p /home/harsh/dbretina/index_output_files/index_output_DBRetina_pairwise.tsv -m containment -c 0.5 -o /home/harsh/dbretina/index_output_files/index_output_DBRetina_clusters
+cluster_id	cluster_size	cluster_members
+1	3	groupb|groupc|groupa

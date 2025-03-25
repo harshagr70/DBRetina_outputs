@@ -1,0 +1,6 @@
+31
+0
+1
+kSize:31
+features:31
+command:DBRetina index -a /home/rahul/dbretina/associations.tsv -o /home/rahul/dbretina/index_output_files/index_output
