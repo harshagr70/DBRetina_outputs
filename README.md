@@ -4,7 +4,7 @@
 This repository contains the results of the analysis I performed using **DBRetina**. The analysis involved **indexing**, **pairwise similarity analysis**, and **clustering** to explore genomic data.  
 
 ## **Sample Data Used**  
-- I used **[sample_data.csv]** as input for this analysis.  
+- I used **[sample_data.tsv]** as input for this analysis.  
 - The data was processed using DBRetina to generate similarity metrics, cluster information, and visual representations.  
 
 ---
