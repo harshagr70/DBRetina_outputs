@@ -1,7 +1,3 @@
----
-title: "DBRetina Analysis Output"
-output: github_document
----
 
 # **DBRetina Analysis Output**  
 
